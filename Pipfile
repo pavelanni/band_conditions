@@ -1,0 +1,47 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+alabaster = "*"
+"aniso8601" = "*"
+autodoc = "*"
+babel = "*"
+"beautifulsoup4" = "*"
+cffi = "*"
+click = "*"
+cryptography = "*"
+decorator = "*"
+docutils = "*"
+flask = "*"
+flask-ask = "*"
+idna = "*"
+imagesize = "*"
+itsdangerous = "*"
+"jinja2" = "*"
+markupsafe = "*"
+"pyasn1" = "*"
+pycparser = "*"
+pygments = "*"
+pyopenssl = "*"
+python-dateutil = "*"
+pytz = "*"
+pyyaml = "*"
+requests = "*"
+snowballstemmer = "*"
+sphinx = "*"
+sphinx-autodoc-typehints = "*"
+sphinx-rtd-theme = "*"
+waitress = "*"
+webob = "*"
+webtest = "*"
+werkzeug = "*"
+zappa = "*"
+
+
+[dev-packages]
+

@@ -1,0 +1,19 @@
+welcome: |
+  Band Conditions.
+
+welcome_re: |
+  Band Conditions. How may I help you?
+
+welcome_card: |
+  Band Conditions is an Alexa skill written by Pavel Anni. This skill report current conditions on ham radio bands.
+
+stop_bye: |
+  Goodbye!
+
+cancel_bye: |
+  OK, goodbye!
+
+help_text: |
+  Band Conditions is an Alexa skill that gives you the current conditions on ham radio bands.
+  To start it, say "Alexa, open Band Conditions". If you are interested in a specific band,
+  say "Alexa, ask Band Conditions about forty meter band".
